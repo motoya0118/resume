@@ -7,7 +7,7 @@
 |Name|motoya (Motonao Ado)|
 |portfolio|[motoya's portfolio](https://motoya-portfolio.com/)|
 |Twitter|[@puchan_pig](https://twitter.com/puchan_pig)|
-|Qiita|[motoya0118](https://twitter.com/motoya0118)|
+|Qiita|[motoya0118](https://qiita.com/motoya0118)|
 
 ## スキル
 ### 言語
@@ -73,5 +73,5 @@
 ## 課外活動
 
 ### 執筆歴
-* [Qiita](https://twitter.com/motoya0118)
+* [Qiita](https://qiita.com/motoya0118)
 
