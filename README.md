@@ -4,73 +4,74 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|motoya (Motonao Ado)|
+|portfolio|[motoya's portfolio](https://motoya-portfolio.com/)|
+|Twitter|[@puchan_pig](https://twitter.com/puchan_pig)|
+|Qiita|[motoya0118](https://twitter.com/motoya0118)|
 
 ## スキル
 ### 言語
 - Ruby
-- PHP
-- Java
-- などなど
+- Python
+- JavaScript
 
 ### フレームワーク
 
 - Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+- Vue.js
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- KJ法
+- マインドマップ
+- centOS, ubuntuでの開発経験
 
 ## 言語
 
 - 日本語
   - ネイティブ
 - 英語
+  - メールやチャットができる
+  - stack overflowが読める
   - かんたんな日常会話ができる
-  - TOEIC: xxx点
 
 ## 強み
 
+- [問題解決能力](https://motoya-portfolio.com/5s/)
+- [自走力](https://motoya-portfolio.com/cosme-system/)
+
 ## やったことはないが興味があるもの
+- OSS活動(リーナス・トーバルズさんの自伝を読んで興味を持ちました)
 
-## 職務経歴
+## 作成履歴・職務経歴
 
-### yyyy/mm - 現在 : 会社名
+### 2022/10
 
-職務: Webアプリケーションエンジニア（例）
+[webアプリケーション: デジタルKJ法 を開発](https://kj-method.link/)
 
-#### 職務内容の名前（レストラン検索とか）
+### 2019/12 - 2022/6 : （ECサイト運営事業）
 
-- 職務内容の詳細を箇条書きでかく
+職務: 代表(兼エンジニア)
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+#### 作成したもの・経験したこと
 
-職務: サーバーサイドエンジニア
+- [販売管理自動化](https://motoya-portfolio.com/cosme-system/)
+- 10名程度のリモートワーカーと業務委託契約して事業を回したマネジメント経験
+- 着荷確認の半自動課(python:スクレイピング)
+- 新規取扱候補の選定(python:スクレイピング)
 
-#### 職務内容の名前（レストラン検索とか）
+### 2011/4 - 2021/12: （化学メーカー）
 
-- 職務内容の詳細を箇条書きでかく
+職務: 品質管理
+
+#### 作成したもの・経験したこと
+
+- [5s活動の改善効率を3倍にUPした](https://motoya-portfolio.com/5s/)
+- サンプル管理の半自動課(VBA)
+- 測定機器出力データの解析を半自動課(VBA)
 
 ## 課外活動
 
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
-
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
-
 ### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+* [Qiita](https://twitter.com/motoya0118)
+
