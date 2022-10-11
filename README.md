@@ -9,6 +9,27 @@
 |Twitter|[@puchan_pig](https://twitter.com/puchan_pig)|
 |Qiita|[motoya0118](https://qiita.com/motoya0118)|
 
+## 最もアピールしたいこと
+
+--------------------------------------------------------------
+[webアプリケーション: デジタルKJ法 を開発](https://kj-method.link/)  
+vuedraggableでのドラッグ&ドロップ機能について独自の実装  
+
+>[解説動画 5:11 ~ 6:28](https://kj-method.link/about)
+--------------------------------------------------------------
+
+1. キャッチアップ力:  
+英語ソースで多少元情報が間違っていてもキャッチアップできること
+>[SortableJSのoutput](https://qiita.com/motoya0118/items/ed4aea14a50c5d39a24d)
+
+2. 自走力:  
+同期生からもらったソースコード以外、railsへの実装例がない状態でvuedraggableを実装したこと
+>[同期生からもらったコード](https://github.com/motoya0118/trello_clone)
+
+3. 実装力:  
+攻めた設計をして実装開始から1ヶ月でデプロイしたこと  
+※ほぼスクールカリキュラム外内容の実装であるため、聞ける方が皆無の状態で作成しました
+
 ## スキル
 ### 言語
 - Ruby
