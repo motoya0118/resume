@@ -19,10 +19,6 @@
 ### 2022/7 ~ 2022/10 : (プログラミングスクール : DIVE INTO CODE)
 職務: 受講生
 
-1. キャッチアップ力:  
-英語ソースで多少元情報が間違っていてもキャッチアップできること
->[SortableJSのoutput](https://qiita.com/motoya0118/items/ed4aea14a50c5d39a24d)
-
 - [(!) webアプリケーション: デジタルKJ法 を開発](https://kj-method.link/)
 
 ### 2019/12 - 2022/6 : （ECサイト運営事業）
