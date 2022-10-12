@@ -2,6 +2,8 @@
 
 ## 基本情報
 
+| key | value |
+----|---- 
 |Name|motoya (Motonao Ado)|
 |portfolio|[motoya's portfolio](https://motoya-portfolio.com/)|
 |Twitter|[@puchan_pig](https://twitter.com/puchan_pig)|
