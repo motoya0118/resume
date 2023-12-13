@@ -10,7 +10,7 @@
 |key|value|
 |---|-----|
 |Name|motoya (Motonao Ado)|
-|portfolio|[motoya's portfolio](https://motoya-portfolio.com/)|
+|portfolio|[motoya's portfolio](https://qiita.com/motoya0118/items/e264c837035ea6c59193)|
 |Twitter|[@puchan_pig](https://twitter.com/puchan_pig)|
 |Qiita|[motoya0118](https://qiita.com/motoya0118)|
 
