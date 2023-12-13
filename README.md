@@ -11,7 +11,7 @@
 |---|-----|
 |Name|motoya (Motonao Ado)|
 |portfolio(rails x vue)|[デジタルKJ法](https://qiita.com/motoya0118/items/efbaf8cf2a84f2076b6a)|
-|portfolio(python)|[化粧品販売システム]([https://qiita.com/motoya0118/items/efbaf8cf2a84f2076b6a](https://qiita.com/motoya0118/items/e264c837035ea6c59193)|
+|portfolio(python)|[化粧品販売システム][https://qiita.com/motoya0118/items/efbaf8cf2a84f2076b6a](https://qiita.com/motoya0118/items/e264c837035ea6c59193)|
 |Twitter|[@puchan_pig](https://twitter.com/puchan_pig)|
 |Qiita|[motoya0118](https://qiita.com/motoya0118)|
 
