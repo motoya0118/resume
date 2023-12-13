@@ -10,11 +10,35 @@
 |key|value|
 |---|-----|
 |Name|motoya (Motonao Ado)|
-|portfolio|[motoya's portfolio](https://qiita.com/motoya0118/items/e264c837035ea6c59193)|
+|portfolio(rails x vue)|[デジタルKJ法](https://qiita.com/motoya0118/items/efbaf8cf2a84f2076b6a)|
+|portfolio(python)|[化粧品販売システム]([https://qiita.com/motoya0118/items/efbaf8cf2a84f2076b6a](https://qiita.com/motoya0118/items/e264c837035ea6c59193))|
 |Twitter|[@puchan_pig](https://twitter.com/puchan_pig)|
 |Qiita|[motoya0118](https://qiita.com/motoya0118)|
 
-## 最もアピールしたいこと
+## 経歴
+
+### 2023/10 - (現在): 株式会社cloco
+#### 2023/7 - (現在): (スタートアップ企業)外食店向けシステム開発PJ
+職務: PMO/PM 
+案件概要: 飲食店を予約するためのメディアサイト、飲食店向けの予約管理システム・発注システムの運用保守 & アジャイルスタイルでのシステム改修
+開発スタイル: アジャイル
+技術: Ruby on Rails x Vue.js/JQuery x MySQL
+
+#### 2022/2 - 2023/9:月商3億円規模のECサイトPJ
+職務: PMO(2023/2) - PM(2023/2 - 9) 
+案件概要: 月商3億円規模のECサイト、運用保守 & システムリニューアル新規開発
+開発スタイル: ウォーターフォール
+技術: PHP(EC-CUBE) x SOLR x MySQL
+
+#### 2022/10 - 2023/2 :金融系スマホネーティブアプリPJ
+職務: PMO
+案件概要: 運用保守PJ、オフショアエンジニア
+開発スタイル: ウォーターフォール
+技術: Swift x Ruby on Rails x MySQL
+
+#### その他
+・社内BLOG PJでchatGPTを使用しながら効率よく記事を発信する取り組みを実施
+・国立機関運用保守PJ経験有
 
 ### 2022/7 ~ 2022/10 : (プログラミングスクール : DIVE INTO CODE)
 職務: 受講生
@@ -29,7 +53,7 @@
 
 #### 作成したもの・経験したこと
 
-- [(!) 販売管理自動化BOTの開発](https://motoya-portfolio.com/cosme-system/)
+- [(!) 販売管理自動化BOTの開発]([https://motoya-portfolio.com/cosme-system/](https://qiita.com/motoya0118/items/efbaf8cf2a84f2076b6a))
 - 10名程度のリモートワーカーと業務委託契約して事業を回したマネジメント経験
 - 着荷確認の半自動課(python:スクレイピング)
 - 新規取扱候補の選定(python:スクレイピング)
