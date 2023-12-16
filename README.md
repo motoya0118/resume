@@ -118,15 +118,15 @@
   - 16personalitiesの結果
 ## スキル
 ### 言語
-- Ruby
-- Python
-- JavaScript
-- VBA
+- Ruby: 約2年
+- Python: 約3年
+- JavaScript: 約1年
+- VBA: 約5年
 
 ### フレームワーク
 
-- Ruby on Rails
-- Vue.js
+- Ruby on Rails: 約2年
+- Vue.js: 約2年
 
 ### その他
 
