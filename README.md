@@ -138,6 +138,10 @@ updatedate: 2023/12/16
 - マインドマップ
 - centOS, ubuntuでの開発経験
 
+### paizaスコア
+<img width="755" alt="image" src="https://github.com/motoya0118/resume/assets/90805736/49add2e2-71fd-43d4-a803-f2ef8d31ad78">
+
+
 ## 課外活動
 
 ### 執筆歴
